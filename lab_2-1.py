@@ -1,9 +1,9 @@
 # Author RTS 11/9/21
 
-my_1st = [1, 2, 3, 4, 5]
-print(my_1st[2])
+my_lst = [1, 2, 3, 4, 5]
+print(my_lst[2])
 
-print(len(my_1st))
-print(my_1st * 3)
+print(len(my_lst))
+print(my_lst * 3)
 
 print(list("string"))
